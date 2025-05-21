@@ -9,7 +9,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-              url("https://github.com/Chetana-Siva-Durga/Resume/blob/main/back.jpg") no-repeat center center fixed;
+              url("https://raw.githubusercontent.com/Chetana-Siva-Durga/Resume/main/back.jpg") no-repeat center center fixed;
   background-size: cover;
   color: #eee;
   line-height: 1.6;
