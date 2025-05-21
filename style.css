@@ -9,16 +9,16 @@ html, body {
 
 /* Background image */
 body {
-background-image: url("https://github.com/Chetana-Siva-Durga/Resume/blob/main/back.jpg");
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;  /* Needed for overlay positioning */
+  background-image: url("https://raw.githubusercontent.com/Chetana-Siva-Durga/Resume/main/back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative; /* Needed for overlay positioning */
 }
+
 
 /* Dark overlay - full screen black transparent overlay */
 body::before {
