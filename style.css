@@ -9,7 +9,7 @@ html, body {
 
 /* Background image */
 body {
-    background-image: url("back.jpg"); /* Replace with your image path */
+    background-image: url("https://github.com/Chetana-Siva-Durga/Resume/blob/main/back.jpg"); /* Replace with your image path */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
